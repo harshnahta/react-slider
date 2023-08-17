@@ -11,7 +11,6 @@ export const ReactSlider = ({
   objectFit = 'fill',
   imageBackgroundColor = 'rgba(0, 0, 0, 0.5)'
 }) => {
-  
   return (
     <LoadSlider
       styles={styles}

@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
-import { ReactSlider } from 'react-slider'
-import 'react-slider/dist/index.css'
+import { ReactSlider } from 'react-image-slider-js'
+import 'react-image-slider-js/dist/index.css'
 const imagesArr = [
   { src: 'https://picsum.photos/200/300' },
   { src: 'https://picsum.photos/100/200' }

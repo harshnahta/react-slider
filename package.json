@@ -1,7 +1,7 @@
 {
-  "name": "react-slider",
+  "name": "react-image-slider-js",
   "version": "1.2.1",
-  "description": "Easy react js slider. It comes with manually adjust whatever user required.",
+  "description": "Easy react image slider. It comes with manually adjust whatever user required.",
   "author": "Harsh Nahta",
   "license": "MIT",
   "repository": {
