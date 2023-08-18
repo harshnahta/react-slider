@@ -1,18 +1,15 @@
 {
-  "name": "react-image-slider-js",
-  "version": "1.2.1",
+  "name": "react-slider-image-js",
+  "version": "0.1.0",
   "description": "Easy react image slider. It comes with manually adjust whatever user required.",
   "author": "Harsh Nahta",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/harshnahta/react-slider/tree/master"
+    "url": "https://github.com/harshnahta/react-slider.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
-  "publishConfig": {
-    "@harshnahta:registry": "https://registry.npmjs.org"
-  },
   "engines": {
     "node": ">=10"
   },
@@ -57,13 +54,20 @@
   ],
   "keywords": [
     "react",
-    "react slider js",
-    "react-slider",
-    "reactjs slider",
-    "sliderjs",
-    "slider",
-    "react slider",
+    "react image slider js",
+    "react-image-slider",
+    "reactjs image slider",
+    "image sliderjs",
+    "image slider",
+    "react image slider",
     "slider gallery",
     "simple easy slider"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/harshnahta/react-slider/issues"
+  },
+  "homepage": "https://github.com/harshnahta/react-slider#readme",
+  "directories": {
+    "example": "example"
+  }
 }

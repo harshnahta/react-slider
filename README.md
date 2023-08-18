@@ -1,11 +1,11 @@
 <!-- @format -->
 
-# react-image-slider-js
+# react-slider-image-js
 
 ## Install
 
 ```bash
-npm install --save react-image-slider-js
+npm install --save react-slider-image-js
 ```
 
 # React Image Slider js - User Manual and Updates
@@ -24,7 +24,7 @@ To begin using React Image Slider js, follow these simple steps:
 1. Install the package via npm or yarn:
 
    ```bash
-   npm install react-image-slider-js
+   npm install react-slider-image-js
    ```
 
 # React Image Slider js - CodeSandbox Example
@@ -48,8 +48,8 @@ Check out the live example on CodeSandbox: [![Live Example](https://codesandbox.
 ```jsx
 import React, { Component } from 'react'
 
-import { ReactSlider } from 'react-image-slider-js'
-import 'react-image-slider-js/dist/index.css'
+import { ReactSlider } from 'react-slider-image-js'
+import 'react-slider-image-js/dist/index.css'
 
 const imagesArr = [{ src: '1.png' }, { src: '2.png' }]
 
