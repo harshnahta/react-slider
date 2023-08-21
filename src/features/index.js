@@ -10,7 +10,9 @@ const LoadSlider = (props) => {
     imageAltKey,
     slideAnimationDuration,
     objectFit,
-    imageBackgroundColor
+    imageBackgroundColor,
+    isAutoSlide,
+    autoSlideDuration
   } = props
   const imageBlock = useRef()
   const screen = useRef()
@@ -89,6 +91,8 @@ const LoadSlider = (props) => {
           sliderIndex={data.sliderIndex}
           zoomIndex={data.zoomIndex}
           setData={setData}
+          isAutoSlide={isAutoSlide}
+          autoSlideDuration={autoSlideDuration}
         />
       </div>
     </div>
