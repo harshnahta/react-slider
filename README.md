@@ -103,6 +103,8 @@ const Example = () => {
       slideAnimationDuration={'600ms'}
       imageBackgroundColor={'rgba(0, 0, 0, 0.9)'}
       objectFit={`fill`}
+      isAutoSlide={true}
+      autoSlideDuration={3000}
     />
   )
 }
@@ -121,6 +123,8 @@ const Example = () => {
       slideAnimationDuration={'600ms'}
       imageBackgroundColor={'rgba(0, 0, 0, 0.9)'}
       objectFit={`fill`}
+      isAutoSlide={true}
+      autoSlideDuration={3000}
     />
   )
 }
