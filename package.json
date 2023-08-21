@@ -1,7 +1,7 @@
 {
   "name": "react-slider-image-js",
-  "version": "0.1.0",
-  "description": "Easy react image slider. It comes with manually adjust whatever user required.",
+  "version": "0.2.0",
+  "description": "This library empowers you with the flexibility to seamlessly integrate image slider functionality into your React applications, allowing for manual management and customization based on your unique requirements.",
   "author": "Harsh Nahta",
   "license": "MIT",
   "repository": {
