@@ -14,8 +14,8 @@ Welcome to React Image Slider js! This library empowers you with the flexibility
 
 ## Key Features:
 
-- **Manual Control:** Take charge of your lightbox interactions and tailor them to your needs.
-- **Ease of Use:** Effortlessly integrate and configure lightboxes with minimal setup.
+- **Manual Control:** Take charge of your slider interactions and tailor them to your needs.
+- **Ease of Use:** Effortlessly integrate and configure slider with minimal setup.
 
 ## Getting Started:
 
@@ -29,7 +29,7 @@ To begin using React Image Slider js, follow these simple steps:
 
 # React Image Slider js - CodeSandbox Example
 
-Welcome to the React Image Slider js CodeSandbox example! In this sandbox, you can explore and interact with a live implementation of React Image Slider js. This example showcases how to integrate and customize lightbox functionality into a React application.
+Welcome to the React Image Slider js CodeSandbox example! In this sandbox, you can explore and interact with a live implementation of React Image Slider js. This example showcases how to integrate and customize slider functionality into a React application.
 
 ## Live Example:
 
@@ -39,8 +39,8 @@ Check out the live example on CodeSandbox: [![Live Example](https://codesandbox.
 
 1. Open the [Live Example](https://codesandbox.io/s/react-image-slider-js-mk6dq8) on CodeSandbox.
 2. Explore the implemented React components and code in the **src** directory.
-3. Observe how the lightbox functionality is integrated and how the `imageBackgroundColor` option is used.
-4. Make changes and experiment with the code to see how it affects the lightbox behavior and appearance.
+3. Observe how the slider functionality is integrated and how the `imageBackgroundColor` option is used.
+4. Make changes and experiment with the code to see how it affects the slider behavior and appearance.
 5. Feel free to modify and adapt the example to your own projects.
 
 # [react-slider-image-js] - Latest Update
